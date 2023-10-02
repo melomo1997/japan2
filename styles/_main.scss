@@ -1,0 +1,33 @@
+//Main
+
+.main{
+    text-align: center;
+
+&__ttl{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 84px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 102px; /* 121.429% */
+    letter-spacing: -2px;
+} 
+
+&__p{
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; /* 154.545% */
+    width: 573.5px;
+    // 
+    margin-left: 433px;
+
+}
+}
+
+.pic{
+    text-align: center;
+}
